@@ -8,6 +8,7 @@ Pre-trained Random Forest Classifier for churn prediction
 Handles class imbalance using SMOTEENN
 Displays prediction results and probability scores
 Model persistence using Pickle
+
 ⚡ Tech Stack
 Python
 Streamlit
@@ -15,6 +16,7 @@ scikit-learn
 imbalanced-learn
 pandas & numpy
 ✅ Instructions to Run Locally
+
 Clone the repository
 git clone https://github.com/Gayatrikumbar/Teleco-Churn-Analysis.git
 cd telecom-churn-prediction
