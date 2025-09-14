@@ -1,22 +1,25 @@
-Telcom Churn Analysis App
-Project Overview
-This project is a Machine Learning-based web application built using Streamlit that predicts customer churn for a telecom company. The model predicts whether a customer is likely to churn based on their input features.
+# 📊 Telecom Churn Analysis App  
 
-🚀 Features
-User-friendly web interface to input customer information
-Pre-trained Random Forest Classifier for churn prediction
-Handles class imbalance using SMOTEENN
-Displays prediction results and probability scores
-Model persistence using Pickle
+A **Machine Learning-powered Streamlit web application** that predicts **customer churn** for a telecom company. The model helps identify customers who are likely to churn based on their demographic and service-related features.  
 
-⚡ Tech Stack
-Python
-Streamlit
-scikit-learn
-imbalanced-learn
-pandas & numpy
-✅ Instructions to Run Locally
+---
 
-Clone the repository
-git clone https://github.com/Gayatrikumbar/Teleco-Churn-Analysis.git
-cd telecom-churn-prediction
+## 🚀 Features  
+- 🖥️ **Interactive Web Interface** – Easily input customer details  
+- 🌲 **Pre-trained Random Forest Classifier** – Robust prediction model  
+- ⚖️ **Imbalance Handling with SMOTEENN** – Improves prediction for minority churn cases  
+- 📊 **Prediction Results with Probability Scores** – Gives clear insights into churn likelihood  
+- 💾 **Model Persistence using Pickle** – Efficient and reusable model storage  
+
+---
+
+## ⚡ Tech Stack  
+- **Python**  
+- **Streamlit**  
+- **scikit-learn**  
+- **imbalanced-learn**  
+- **pandas & numpy**  
+
+---
+
+
